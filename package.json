@@ -1,6 +1,6 @@
 {
   "name": "kpipe",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "Aggregate project for the kpipe data pipeline",
   "main": "index.js",
   "scripts": {
