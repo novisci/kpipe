@@ -1,5 +1,5 @@
 module.exports = {
-  Core: require('kpipe-core'),
-  Streams: require('kpipe-streams'),
-  Sequence: require('kpipe-sequence')
+  ...require('kpipe-core'),
+  ...require('kpipe-streams'),
+  ...require('kpipe-sequence')
 }
