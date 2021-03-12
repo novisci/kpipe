@@ -1,6 +1,6 @@
 {
   "name": "kpipe",
-  "version": "0.11.1",
+  "version": "0.12.0",
   "description": "Aggregate project for the kpipe data pipeline",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "dependencies": {
     "kpipe-core": "^0.11.3",
     "kpipe-sequence": "^0.9.5",
-    "kpipe-streams": "^0.9.9",
-    "kpipe-url": "^0.9.1"
+    "kpipe-streams": "^0.10.0",
+    "kpipe-url": "^0.10.0"
   }
 }
