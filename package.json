@@ -1,6 +1,6 @@
 {
   "name": "kpipe",
-  "version": "0.14.3",
+  "version": "0.15.0",
   "description": "Aggregate project for the kpipe data pipeline",
   "main": "index.js",
   "scripts": {
@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/novisci/kpipe#readme",
   "dependencies": {
-    "kpipe-core": "^0.12.5",
+    "kpipe-core": "^0.13.0",
     "kpipe-sequence": "^0.9.5",
     "kpipe-streams": "^0.10.2",
-    "kpipe-url": "^0.12.1"
+    "kpipe-url": "^0.13.0"
   }
 }
